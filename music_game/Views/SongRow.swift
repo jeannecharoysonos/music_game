@@ -8,13 +8,29 @@
 import SwiftUI
 
 struct SongRow: View {
+    @EnvironmentObject var modelData: ModelData
+    var song: Song
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        HStack{
+            if song.isAvailable {
+                Image(systemName: "circle.fill")
+                    .foregroundColor(.green)
+            }
+            Text(song.title)
+        }
     }
 }
 
+
 struct SongRow_Previews: PreviewProvider {
+    static var playlists = ModelData().playlists
+    
     static var previews: some View {
-        SongRow()
+        Group{
+            SongRow(song: playlists[0].songs[0])
+            SongRow(song: playlists[0].songs[1])
+        }
+        .previewLayout(.fixed(width: 300, height: 70))
     }
 }

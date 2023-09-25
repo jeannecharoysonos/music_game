@@ -1,5 +1,120 @@
-{\rtf1\ansi\ansicpg1252\cocoartf949
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-\margl1440\margr1440\vieww9000\viewh8400\viewkind0
-}
+[
+    {
+        "playlist": "100% ABBA",
+        "id": 0,
+        "songs":[
+            {
+                "title": "Dancing Queen",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "Ooh You can dance\nYou can jive\nHaving the time of your life\nOoh, see that girl\nWatch that scene\nDigging the dancing queen\nFriday night and the lights are low\nLooking out for a place to go\nWhere they play the right music\nGetting in the swing\nYou come to look for a king\nAnybody could be that guy\nNight is young and the music's high\nWith a bit of rock music\nEverything is fine\nYou're in the mood for a dance\nAnd when you get the chance\nYou are the dancing queen\nYoung and sweet\nOnly seventeen\nDancing queen\nFeel the beat from the tambourine, oh yeah\nYou can dance\nYou can jive\nHaving the time of your life\nOoh, see that girl\nWatch that scene\nDigging the dancing queen\nYou're a teaser, you turn 'em on\nLeave 'em burning and then you're gone\nLooking out for another\nAnyone will do\nYou're in the mood for a dance\nAnd when you get the chance\nYou are the dancing queen\nYoung and sweet\nOnly seventeen\nDancing queen\nFeel the beat from the tambourine, oh yeah\nYou can dance\nYou can jive\nHaving the time of your life\nOoh, see that girl\nWatch that scene\nDigging the dancing queen\nDigging the dancing queen",
+                "isAvailable": true
+            },
+            {
+                "title": "The Winner Takes It All",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Money, Money, Money",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Waterloo",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Lay Your Love On Me",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Mamma Mia",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Gimme! Gimme! Gimme!",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Our Last Summer",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Take A Chance On Me",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Honey, Honey",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Voulez-Vous",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Slipping Through My Fingers",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Knowing Me, Knowing You",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            },
+            {
+                "title": "Chiquihita",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "",
+                "isAvailable": true
+            }
+        ]
+    },
+    {
+        "playlist": "All American Classics",
+        "id": 1,
+        "songs": [
+            {
+                "title": "Whatever",
+                "id": 2,
+                "isErrorSong": true,
+                "lyrics": "This is the wrong song! Try again",
+                "isAvailable": true
+            }
+        ]
+    }
+]
+ 

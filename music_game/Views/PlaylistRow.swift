@@ -8,13 +8,25 @@
 import SwiftUI
 
 struct PlaylistRow: View {
+    var playlist: Playlist
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        HStack{
+            Text(playlist.playlist)
+            Spacer()
+        }
+        .padding()
     }
 }
 
 struct PlaylistRow_Previews: PreviewProvider {
+    static var playlists = ModelData().playlists
+    
     static var previews: some View {
-        PlaylistRow()
+        Group{
+          PlaylistRow(playlist: playlists[0])
+            PlaylistRow(playlist: playlists[1])
+        }
+            .previewLayout(.fixed(width: 300, height: 70))
     }
 }

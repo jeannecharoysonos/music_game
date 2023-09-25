@@ -8,13 +8,43 @@
 import SwiftUI
 
 struct SongList: View {
+    @EnvironmentObject var modelData: ModelData
+    @State private var showAvailableOnly = false
+
+    var playlist: Playlist
+
+   var filteredSongs: [Song] {
+       playlist.songs.filter {song in
+           (!showAvailableOnly || song.isAvailable)
+        }
+    }
+
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        NavigationView {
+            List{
+                Toggle(isOn: $showAvailableOnly) {
+                    Text("Available only")
+                }
+                ForEach(filteredSongs) { song in
+                        NavigationLink {
+                            //SongDetail(song: song, playlist:playlist)
+                            SongDetail(song:song)
+                        } label: {
+                            SongRow(song: song)
+                        }
+                    }
+                }
+            }.navigationViewStyle(StackNavigationViewStyle())
+    .navigationTitle("Songs")
     }
 }
 
+
 struct SongList_Previews: PreviewProvider {
+//    static let modelData = ModelData()
+    static var playlists = ModelData().playlists
+
     static var previews: some View {
-        SongList()
+        SongList(playlist: playlists[0])
     }
 }

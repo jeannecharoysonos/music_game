@@ -14,6 +14,15 @@
 		5E4E8ADE2AB4940B008E1C2D /* music_gameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8ADD2AB4940B008E1C2D /* music_gameTests.swift */; };
 		5E4E8AE82AB4940B008E1C2D /* music_gameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8AE72AB4940B008E1C2D /* music_gameUITests.swift */; };
 		5E4E8AEA2AB4940B008E1C2D /* music_gameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8AE92AB4940B008E1C2D /* music_gameUITestsLaunchTests.swift */; };
+		5E4E8B7F2ABD8EEB008E1C2D /* gameData.json in Resources */ = {isa = PBXBuildFile; fileRef = 5E4E8B7E2ABD8EEB008E1C2D /* gameData.json */; };
+		5E4E8B812ABD904C008E1C2D /* SongDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B802ABD904C008E1C2D /* SongDetail.swift */; };
+		5E4E8B852ABD908E008E1C2D /* ModelData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B842ABD908E008E1C2D /* ModelData.swift */; };
+		5E4E8B872ABD90D2008E1C2D /* Song.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B862ABD90D2008E1C2D /* Song.swift */; };
+		5E4E8B892ABD9239008E1C2D /* SongList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B882ABD9239008E1C2D /* SongList.swift */; };
+		5E4E8B8B2ABD9394008E1C2D /* SongRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B8A2ABD9394008E1C2D /* SongRow.swift */; };
+		5E4E8B8D2ABD9C22008E1C2D /* PlaylistList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B8C2ABD9C22008E1C2D /* PlaylistList.swift */; };
+		5E4E8B942ABD9DE2008E1C2D /* PlaylistRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B932ABD9DE2008E1C2D /* PlaylistRow.swift */; };
+		5E4E8B972ABDD891008E1C2D /* PlayedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B962ABDD891008E1C2D /* PlayedButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +54,15 @@
 		5E4E8AE32AB4940B008E1C2D /* music_gameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = music_gameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E4E8AE72AB4940B008E1C2D /* music_gameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = music_gameUITests.swift; sourceTree = "<group>"; };
 		5E4E8AE92AB4940B008E1C2D /* music_gameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = music_gameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		5E4E8B7E2ABD8EEB008E1C2D /* gameData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = gameData.json; sourceTree = "<group>"; };
+		5E4E8B802ABD904C008E1C2D /* SongDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongDetail.swift; sourceTree = "<group>"; };
+		5E4E8B842ABD908E008E1C2D /* ModelData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelData.swift; sourceTree = "<group>"; };
+		5E4E8B862ABD90D2008E1C2D /* Song.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Song.swift; sourceTree = "<group>"; };
+		5E4E8B882ABD9239008E1C2D /* SongList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongList.swift; sourceTree = "<group>"; };
+		5E4E8B8A2ABD9394008E1C2D /* SongRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongRow.swift; sourceTree = "<group>"; };
+		5E4E8B8C2ABD9C22008E1C2D /* PlaylistList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistList.swift; sourceTree = "<group>"; };
+		5E4E8B932ABD9DE2008E1C2D /* PlaylistRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistRow.swift; sourceTree = "<group>"; };
+		5E4E8B962ABDD891008E1C2D /* PlayedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayedButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,8 +114,12 @@
 			isa = PBXGroup;
 			children = (
 				5E4E8ACB2AB49409008E1C2D /* music_gameApp.swift */,
-				5E4E8ACD2AB49409008E1C2D /* ContentView.swift */,
+				5E4E8B7D2ABD8E7A008E1C2D /* Ressources */,
+				5E4E8B7A2ABD89FD008E1C2D /* Music_game */,
+				5E4E8B7B2ABD8A16008E1C2D /* Views */,
 				5E4E8ACF2AB4940B008E1C2D /* Assets.xcassets */,
+				5E4E8B952ABDD875008E1C2D /* Helpers */,
+				5E4E8B832ABD9079008E1C2D /* Model */,
 				5E4E8AD12AB4940B008E1C2D /* music_game.entitlements */,
 				5E4E8AD22AB4940B008E1C2D /* Preview Content */,
 			);
@@ -127,6 +149,59 @@
 				5E4E8AE92AB4940B008E1C2D /* music_gameUITestsLaunchTests.swift */,
 			);
 			path = music_gameUITests;
+			sourceTree = "<group>";
+		};
+		5E4E8B7A2ABD89FD008E1C2D /* Music_game */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Music_game;
+			sourceTree = "<group>";
+		};
+		5E4E8B7B2ABD8A16008E1C2D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5E4E8ACD2AB49409008E1C2D /* ContentView.swift */,
+				5E4E8B8C2ABD9C22008E1C2D /* PlaylistList.swift */,
+				5E4E8B932ABD9DE2008E1C2D /* PlaylistRow.swift */,
+				5E4E8B8E2ABD9C26008E1C2D /* SongLevel */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5E4E8B7D2ABD8E7A008E1C2D /* Ressources */ = {
+			isa = PBXGroup;
+			children = (
+				5E4E8B7E2ABD8EEB008E1C2D /* gameData.json */,
+			);
+			path = Ressources;
+			sourceTree = "<group>";
+		};
+		5E4E8B832ABD9079008E1C2D /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				5E4E8B842ABD908E008E1C2D /* ModelData.swift */,
+				5E4E8B862ABD90D2008E1C2D /* Song.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		5E4E8B8E2ABD9C26008E1C2D /* SongLevel */ = {
+			isa = PBXGroup;
+			children = (
+				5E4E8B8A2ABD9394008E1C2D /* SongRow.swift */,
+				5E4E8B882ABD9239008E1C2D /* SongList.swift */,
+				5E4E8B802ABD904C008E1C2D /* SongDetail.swift */,
+			);
+			name = SongLevel;
+			sourceTree = "<group>";
+		};
+		5E4E8B952ABDD875008E1C2D /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				5E4E8B962ABDD891008E1C2D /* PlayedButton.swift */,
+			);
+			path = Helpers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,6 +308,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E4E8B7F2ABD8EEB008E1C2D /* gameData.json in Resources */,
 				5E4E8AD42AB4940B008E1C2D /* Preview Assets.xcassets in Resources */,
 				5E4E8AD02AB4940B008E1C2D /* Assets.xcassets in Resources */,
 			);
@@ -259,8 +335,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E4E8B972ABDD891008E1C2D /* PlayedButton.swift in Sources */,
+				5E4E8B892ABD9239008E1C2D /* SongList.swift in Sources */,
+				5E4E8B8B2ABD9394008E1C2D /* SongRow.swift in Sources */,
+				5E4E8B942ABD9DE2008E1C2D /* PlaylistRow.swift in Sources */,
 				5E4E8ACE2AB49409008E1C2D /* ContentView.swift in Sources */,
+				5E4E8B8D2ABD9C22008E1C2D /* PlaylistList.swift in Sources */,
+				5E4E8B852ABD908E008E1C2D /* ModelData.swift in Sources */,
+				5E4E8B812ABD904C008E1C2D /* SongDetail.swift in Sources */,
 				5E4E8ACC2AB49409008E1C2D /* music_gameApp.swift in Sources */,
+				5E4E8B872ABD90D2008E1C2D /* Song.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -437,7 +521,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "svc.music-game";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -475,7 +561,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "svc.music-game";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";

@@ -8,13 +8,23 @@
 import SwiftUI
 
 struct PlayedButton: View {
+    @Binding var isSet: Bool
+    
+    
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-    }
+        Button{
+            isSet.toggle()
+            } label: {
+                Label("Toggle Favorite", systemImage: isSet ? "circle.fill" : "circle")
+                    .labelStyle(.iconOnly)
+                    .foregroundColor(isSet ? .green : .gray)
+            }
+        }
 }
+
 
 struct PlayedButton_Previews: PreviewProvider {
     static var previews: some View {
-        PlayedButton()
+        PlayedButton(isSet: .constant(true))
     }
 }
