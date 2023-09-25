@@ -17,7 +17,7 @@ struct PlayedButton: View {
             } label: {
                 Label("Toggle Favorite", systemImage: isSet ? "circle.fill" : "circle")
                     .labelStyle(.iconOnly)
-                    .foregroundColor(isSet ? .green : .gray)
+                    .foregroundColor(isSet ? .green : .red)
             }
         }
 }

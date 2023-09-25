@@ -16,8 +16,12 @@ struct SongRow: View {
             if song.isAvailable {
                 Image(systemName: "circle.fill")
                     .foregroundColor(.green)
+                Text(song.title)
+            }else{
+                Text(song.title)
+                    .foregroundStyle(.gray)
             }
-            Text(song.title)
+
         }
     }
 }

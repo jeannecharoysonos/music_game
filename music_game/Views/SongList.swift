@@ -27,7 +27,6 @@ struct SongList: View {
                 }
                 ForEach(filteredSongs) { song in
                         NavigationLink {
-                            //SongDetail(song: song, playlist:playlist)
                             SongDetail(song:song)
                         } label: {
                             SongRow(song: song)
@@ -41,7 +40,6 @@ struct SongList: View {
 
 
 struct SongList_Previews: PreviewProvider {
-//    static let modelData = ModelData()
     static var playlists = ModelData().playlists
 
     static var previews: some View {
