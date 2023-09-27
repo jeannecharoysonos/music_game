@@ -14,8 +14,6 @@ struct SongRow: View {
     var body: some View {
         HStack{
             if song.isAvailable {
-                Image(systemName: "circle.fill")
-                    .foregroundColor(.green)
                 Text(song.title)
             }else{
                 Text(song.title)

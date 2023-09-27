@@ -30,6 +30,9 @@ struct SongDetail: View {
                     PlayedButton(isSet: $modelData.playlists[0].songs[songIndex].isAvailable)
                     
                 }
+                Text(song.artist)
+                    .font(.subheadline)
+                    .foregroundColor(.secondary)
                 Divider()
                 HStack{
                     Text(song.lyrics)

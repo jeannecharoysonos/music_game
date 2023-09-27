@@ -9,7 +9,7 @@ import SwiftUI
 
 struct SongList: View {
     @EnvironmentObject var modelData: ModelData
-    @State private var showAvailableOnly = false
+    @State private var showAvailableOnly = true
 
     var playlist: Playlist
 

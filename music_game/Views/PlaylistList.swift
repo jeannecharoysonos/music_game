@@ -10,18 +10,27 @@ import SwiftUI
 struct PlaylistList: View {
     @EnvironmentObject var modelData: ModelData
     
+    var randomPlaylists: [Playlist] {
+        var tempList: [Playlist] = []
+        let shuffledPlaylists:[Playlist] = modelData.playlists.shuffled()
+        for index in 0...2 {
+            tempList.append(shuffledPlaylists[index])
+        }
+        return tempList
+    }
     
     var body: some View {
         NavigationView {
-            List(modelData.playlists){playlist in
+            List(randomPlaylists){playlist in
                 NavigationLink {
                     SongList(playlist: playlist)
                 } label: {
                     PlaylistRow(playlist: playlist)
                 }
             }
-            .navigationTitle("Playlist")
+            .navigationTitle("Playlists")
         }.navigationViewStyle(StackNavigationViewStyle())
+                    
     }
 }
 
