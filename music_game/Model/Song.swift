@@ -20,9 +20,11 @@ struct Song: Codable, Identifiable, Hashable{
     var title: String
     var artist: String
     var id: Int
-    var isErrorSong: Bool
+    //var isErrorSong: Bool
     var lyrics: String
     var isAvailable: Bool
+    var isCorrect: Bool
+    var isWrong: Bool
     
 }
 

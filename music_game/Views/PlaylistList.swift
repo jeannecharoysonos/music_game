@@ -13,7 +13,7 @@ struct PlaylistList: View {
     var randomPlaylists: [Playlist] {
         var tempList: [Playlist] = []
         let shuffledPlaylists:[Playlist] = modelData.playlists.shuffled()
-        for index in 0...2 {
+        for index in 0...3 {
             tempList.append(shuffledPlaylists[index])
         }
         return tempList

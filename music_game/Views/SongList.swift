@@ -11,11 +11,13 @@ struct SongList: View {
     @EnvironmentObject var modelData: ModelData
     @State private var showAvailableOnly = true
 
+
     var playlist: Playlist
 
    var filteredSongs: [Song] {
        playlist.songs.filter {song in
-           (!showAvailableOnly || song.isAvailable)
+           (!showAvailableOnly ||
+            song.isAvailable)
         }
     }
 
@@ -27,22 +29,24 @@ struct SongList: View {
                 }
                 ForEach(filteredSongs) { song in
                         NavigationLink {
-                            SongDetail(song:song)
+                            SongDetail(playlist:playlist,song:song)
                         } label: {
                             SongRow(song: song)
                         }
                     }
                 }
-            }.navigationViewStyle(StackNavigationViewStyle())
-    .navigationTitle("Songs")
+            }
+        .navigationViewStyle(StackNavigationViewStyle())
+        .navigationTitle("Songs")
+        .navigationBarBackButtonHidden(true)
+
     }
 }
 
 
 struct SongList_Previews: PreviewProvider {
-    static var playlists = ModelData().playlists
-
     static var previews: some View {
-        SongList(playlist: playlists[0])
+        SongList(playlist: ModelData().playlists[1])
+            .environmentObject(ModelData())
     }
 }

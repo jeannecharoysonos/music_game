@@ -22,7 +22,11 @@
 		5E4E8B8B2ABD9394008E1C2D /* SongRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B8A2ABD9394008E1C2D /* SongRow.swift */; };
 		5E4E8B8D2ABD9C22008E1C2D /* PlaylistList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B8C2ABD9C22008E1C2D /* PlaylistList.swift */; };
 		5E4E8B942ABD9DE2008E1C2D /* PlaylistRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B932ABD9DE2008E1C2D /* PlaylistRow.swift */; };
-		5E4E8B972ABDD891008E1C2D /* PlayedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B962ABDD891008E1C2D /* PlayedButton.swift */; };
+		5E4E8B972ABDD891008E1C2D /* CorrectButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B962ABDD891008E1C2D /* CorrectButton.swift */; };
+		5E574B2F2AC195A8005D5C61 /* QuizStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E574B2E2AC195A8005D5C61 /* QuizStart.swift */; };
+		5EC5A9762AD82FA100F3849E /* WrongButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC5A9752AD82FA000F3849E /* WrongButton.swift */; };
+		5EC5A9782AD830F800F3849E /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC5A9772AD830F800F3849E /* Profile.swift */; };
+		5EC5A97A2AD83CB800F3849E /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC5A9792AD83CB800F3849E /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,7 +66,11 @@
 		5E4E8B8A2ABD9394008E1C2D /* SongRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SongRow.swift; sourceTree = "<group>"; };
 		5E4E8B8C2ABD9C22008E1C2D /* PlaylistList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistList.swift; sourceTree = "<group>"; };
 		5E4E8B932ABD9DE2008E1C2D /* PlaylistRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistRow.swift; sourceTree = "<group>"; };
-		5E4E8B962ABDD891008E1C2D /* PlayedButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlayedButton.swift; sourceTree = "<group>"; };
+		5E4E8B962ABDD891008E1C2D /* CorrectButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectButton.swift; sourceTree = "<group>"; };
+		5E574B2E2AC195A8005D5C61 /* QuizStart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizStart.swift; sourceTree = "<group>"; };
+		5EC5A9752AD82FA000F3849E /* WrongButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WrongButton.swift; sourceTree = "<group>"; };
+		5EC5A9772AD830F800F3849E /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
+		5EC5A9792AD83CB800F3849E /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,10 +122,9 @@
 			isa = PBXGroup;
 			children = (
 				5E4E8ACB2AB49409008E1C2D /* music_gameApp.swift */,
-				5E4E8B7D2ABD8E7A008E1C2D /* Ressources */,
-				5E4E8B7A2ABD89FD008E1C2D /* Music_game */,
-				5E4E8B7B2ABD8A16008E1C2D /* Views */,
 				5E4E8ACF2AB4940B008E1C2D /* Assets.xcassets */,
+				5E4E8B7D2ABD8E7A008E1C2D /* Ressources */,
+				5E4E8B7B2ABD8A16008E1C2D /* Views */,
 				5E4E8B952ABDD875008E1C2D /* Helpers */,
 				5E4E8B832ABD9079008E1C2D /* Model */,
 				5E4E8AD12AB4940B008E1C2D /* music_game.entitlements */,
@@ -151,19 +158,13 @@
 			path = music_gameUITests;
 			sourceTree = "<group>";
 		};
-		5E4E8B7A2ABD89FD008E1C2D /* Music_game */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Music_game;
-			sourceTree = "<group>";
-		};
 		5E4E8B7B2ABD8A16008E1C2D /* Views */ = {
 			isa = PBXGroup;
 			children = (
 				5E4E8ACD2AB49409008E1C2D /* ContentView.swift */,
-				5E4E8B8C2ABD9C22008E1C2D /* PlaylistList.swift */,
-				5E4E8B932ABD9DE2008E1C2D /* PlaylistRow.swift */,
+				5E574B2E2AC195A8005D5C61 /* QuizStart.swift */,
+				5EC5A9772AD830F800F3849E /* Profile.swift */,
+				5E574B2D2AC19583005D5C61 /* PlaylistLevel */,
 				5E4E8B8E2ABD9C26008E1C2D /* SongLevel */,
 			);
 			path = Views;
@@ -182,6 +183,7 @@
 			children = (
 				5E4E8B842ABD908E008E1C2D /* ModelData.swift */,
 				5E4E8B862ABD90D2008E1C2D /* Song.swift */,
+				5EC5A9792AD83CB800F3849E /* User.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -199,9 +201,19 @@
 		5E4E8B952ABDD875008E1C2D /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
-				5E4E8B962ABDD891008E1C2D /* PlayedButton.swift */,
+				5E4E8B962ABDD891008E1C2D /* CorrectButton.swift */,
+				5EC5A9752AD82FA000F3849E /* WrongButton.swift */,
 			);
 			path = Helpers;
+			sourceTree = "<group>";
+		};
+		5E574B2D2AC19583005D5C61 /* PlaylistLevel */ = {
+			isa = PBXGroup;
+			children = (
+				5E4E8B932ABD9DE2008E1C2D /* PlaylistRow.swift */,
+				5E4E8B8C2ABD9C22008E1C2D /* PlaylistList.swift */,
+			);
+			name = PlaylistLevel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -335,14 +347,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5E4E8B972ABDD891008E1C2D /* PlayedButton.swift in Sources */,
+				5E4E8B972ABDD891008E1C2D /* CorrectButton.swift in Sources */,
 				5E4E8B892ABD9239008E1C2D /* SongList.swift in Sources */,
 				5E4E8B8B2ABD9394008E1C2D /* SongRow.swift in Sources */,
+				5E574B2F2AC195A8005D5C61 /* QuizStart.swift in Sources */,
 				5E4E8B942ABD9DE2008E1C2D /* PlaylistRow.swift in Sources */,
 				5E4E8ACE2AB49409008E1C2D /* ContentView.swift in Sources */,
+				5EC5A97A2AD83CB800F3849E /* User.swift in Sources */,
 				5E4E8B8D2ABD9C22008E1C2D /* PlaylistList.swift in Sources */,
 				5E4E8B852ABD908E008E1C2D /* ModelData.swift in Sources */,
+				5EC5A9782AD830F800F3849E /* Profile.swift in Sources */,
 				5E4E8B812ABD904C008E1C2D /* SongDetail.swift in Sources */,
+				5EC5A9762AD82FA100F3849E /* WrongButton.swift in Sources */,
 				5E4E8ACC2AB49409008E1C2D /* music_gameApp.swift in Sources */,
 				5E4E8B872ABD90D2008E1C2D /* Song.swift in Sources */,
 			);

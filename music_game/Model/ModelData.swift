@@ -12,6 +12,8 @@ final class ModelData: ObservableObject {
     //@Published var songs: [Song] = load("gameData.json")
     
     @Published var playlists: [Playlist] = load("gameData.json")
+    @Published var user = User.default
+
 
 }
 

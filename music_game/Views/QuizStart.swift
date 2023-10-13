@@ -10,10 +10,21 @@ import SwiftUI
 struct QuizStart: View {
     var body: some View {
         NavigationView {
-            VStack {
+            VStack(spacing: 10){
                 Text("You're the quiz team!")
+                    .bold()
+                    .font(.title)
+                
+                Divider()
+            
+                Text("Your role is to play songs, stop them at a random point, and ask the other team to guess the lyrics!")
+
+                Divider()
+                Text("Go to the next screen to get a list of four playlists, and ask the other team which one they want")
+                
+                Divider()
                     NavigationLink(destination: PlaylistList()) {
-                        Text("Go To Next Step")
+                        Text("Go To Playlists")
                 }
             }
         }
