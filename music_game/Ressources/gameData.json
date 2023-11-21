@@ -2,6 +2,7 @@
     {
         "playlist": "100% ABBA",
         "id": 0,
+        "isPlayable": true,
         "songs":[
             {
                 "title": "Dancing Queen",
@@ -148,6 +149,7 @@
     {
         "playlist": "All American Classics",
         "id": 1,
+        "isPlayable": true,
         "songs": [
             {
                 "title": "My Way",
@@ -214,7 +216,7 @@
                 "artist": "Journey",
                 "id": 6,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "Just a small town girl\nLivin' in a lonely world\nShe took the midnight train going anywhere\nJust a city boy\nBorn and raised in South Detroit\nHe took the midnight train going anywhere\nA singer in a smokey room\nA smell of wine and cheap perfume\nFor a smile they can share the night\nIt goes on and on and on and on\nStrangers waitin'\nUp and down the boulevard\nTheir shadows searchin' in the night\nStreetlights, people\nLivin' just to find emotion\nHidin', somewhere in the night\nWorkin' hard to get my fill\nEverybody wants a thrill\nPayin' anything to roll the dice\nJust one more time\nSome'll win, some will lose\nSome are born to sing the blues\nWhoa, the movie never ends\nIt goes on and on and on and on\nStrangers waitin'\nUp and down the boulevard\nTheir shadows searchin' in the night\nStreetlights, people\nLivin' just to find emotion\nHidin', somewhere in the night\nDon't stop believin'\nHold on to that feelin'\nStreetlights, people\nDon't stop believin'\nHold on\nStreetlights, people\nDon't stop believin'\nHold on to that feelin'\nStreetlights, people",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -224,7 +226,7 @@
                 "artist": "Tina Turner",
                 "id": 7,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "You must understand, though the touch of your hand makes my pulse react\nThat it's only the thrill of boy meeting girl, opposites attract\nIt's physical\nOnly logical\nYou must try to ignore that it means more than that\nOh-oh-oh, what's love got to do, got to do with it?\nWhat's love, but a second-hand emotion?\nWhat's love got to do, got to do with it?\nWho needs a heart when a heart can be broken?\nIt may seem to you that I'm acting confused when you're close to me\nIf I tend to look dazed, I read it some place, I got cause to be\nThere's a name for it\nThere's a phrase that fits\nBut whatever the reason, you do it for me\nOh-oh-oh, what's love got to do, got to do with it?\nWhat's love, but a second-hand emotion?\nWhat's love got to do, got to do with it?\nWho needs a heart when a heart can be broken?\nWho?\nI've been taking on a new direction\nBut I have to say\nI've been thinking about my own protection\nIt scares me to feel this way\nOh-oh-oh, what's love got to do, got to do with it?\nWhat's love, but a second-hand emotion?\nWhat's love got to do, got to do with it?\nWho needs a heart when a heart can be broken?\ngot to do, got to do with it?\nWhat's love, but a sweet old-fashioned notion?\nWhat's love got to do, got to do with it?\nWho needs a heart when a heart can be broken?\nooh, got to do with it?\n(What's love? A second-hand emotion)\nWhat's love got to do, got to do with it?\nWho needs a heart when a heart can be broken?\n(What's love) ooh-ooh (got to do with it?) got to do with it?",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -234,7 +236,7 @@
                 "artist": "Billy Joel",
                 "id": 8,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "Uptown girl\nShe's been living in her uptown world\nI bet she's never had a backstreet guy\nI bet her momma never told her why\nI'm gonna try for an uptown girl\nShe's been living in her white-bred world\nAs long as anyone with hot blood can\nAnd now she's looking for a downtown man\nThat's what I am\nAnd when she knows what\nShe wants from her time\nAnd when she wakes up\nAnd makes up her mind\nShe'll see I'm not so tough\nJust because\nI'm in love with an uptown girl\nYou know I've seen her in her uptown world\nShe's getting tired of her high-class toys\nAnd all her presents from her uptown boys\nShe's got a choice\nOh, oh, oh, oh...\nUptown girl\nYou know I can't afford to buy her pearls\nBut maybe someday when my ship comes in\nShe'll understand what kind of guy I've been\nAnd then I'll win\nAnd when she's walking\nShe's looking so fine\nAnd when she's talking\nShe'll say that she's mine\nShe'll say I'm not so tough\nJust because\nI'm in love\nWith an uptown girl\nShe's been living in her white-bred world\nAs long as anyone with hot blood can\nAnd now she's looking for a downtown man\nThat's what I am\nOh, oh, oh, oh...\nUptown girl\nShe's my uptown girl\nYou know I'm in love\nWith an uptown girl\nMy uptown girl\nYou know I'm in love\nWith an uptown girl",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -244,7 +246,7 @@
                 "artist": "Michael Jackson",
                 "id": 9,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "She was more like a beauty queen from a movie scene\nI said don't mind, but what do you mean, I am the one\nWho will dance on the floor in the round?\nShe said I am the one, who will dance on the floor in the round\nShe told me her name was Billie Jean, as she caused a scene\nThen every head turned with eyes that dreamed of being the one\nWho will dance on the floor in the round\nPeople always told me be careful of what you do\nAnd don't go around breaking young girls' hearts\nAnd mother always told me be careful of who you love\nAnd be careful of what you do 'cause the lie becomes the truth\nBillie Jean is not my lover\nShe's just a girl who claims that I am the one\nBut the kid is not my son\nShe says I am the one, but the kid is not my son\nFor forty days and forty nights\nThe law was on her side\nBut who can stand when she's in demand\nHer schemes and plans\n'Cause we danced on the floor in the round\nSo take my strong advice, just remember to always think twice\nShe told my baby we'd danced 'til three, then she looked at me\nThen showed a photo my baby cried his eyes were like mine (oh, no)\n'Cause we danced on the floor in the round, baby\nPeople always told me be careful of what you do\nAnd don't go around breaking young girls' hearts\nShe came and stood right by me\nJust the smell of sweet perfume\nThis happened much too soon\nShe called me to her room\nBillie Jean is not my lover\nShe's just a girl who claims that I am the one\nBut the kid is not my son\nBillie Jean is not my lover\nShe's just a girl who claims that I am the one\nBut the kid is not my son\nShe says I am the one, but the kid is not my son\nShe says I am the one, but the kid is not my son\nBillie Jean is not my lover\nShe's just a girl who claims that I am the one\nBut the kid is not my son\nShe says I am the one, but the kid is not my son\nShe says I am the one\nYou know what you did, (she says he is my son) breaking my heart babe\nShe says I am the one\nBillie Jean is not my lover",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -254,7 +256,7 @@
                 "artist": "Neil Diamond",
                 "id": 10,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "Where it began, I can't begin to knowing\nBut then I know it's growing strong\nWas in the spring\nAnd spring became the summer\nWho'd have believed you'd come along\nHands, touching hands\nReaching out, touching me, touching you\nSweet Caroline\nGood times never seemed so good\nI've been inclined\nTo believe they never would\nBut now I\nLook at the night and it don't seem so lonely\nWe filled it up with only two\nAnd when I hurt\nHurting runs off my shoulders\nHow can I hurt when holding you\nOne, touching one\nReaching out, touching me, touching you\nSweet Caroline\nGood times never seemed so good\nI've been inclined\nTo believe they never would\nOh no, no\nSweet Caroline\nGood times never seemed so good\nSweet Caroline\nI believe they never could\nSweet Caroline\nGood times never seemed so good",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -264,7 +266,7 @@
                 "artist": "Bruce Springsteen",
                 "id": 11,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "Born down in a dead man's town\nThe first kick I took was when I hit the ground\nEnd up like a dog that's been beat too much\n'Til you spend half your life just to cover it up, now\nBorn in the U.S.A.\nI was born in the U.S.A.\nI was born in the U.S.A.\nBorn in the U.S.A., now\nGot in a little hometown jam\nSo they put a rifle in my hands\nSend me off to a foreign land\nTo go and kill the yellow man\nBorn in the U.S.A.\nI was born in the U.S.A.\nBorn in the U.S.A.\nI was born in the U.S.A.\nCome back home to the refinery\nHiring man said, 'Son, if it was up to me'\nWent down to see my V.A. man\nHe said, 'Son, don't you understand, now?'\nI had a brother at Khe Sanh\nFighting off all the Viet Cong\nThey're still there, he's all gone\nHe had a woman he loved in Saigon\nI got a picture of him in her arms, now\nDown in the shadow of the penitentiary\nOut by the gas fires of the refinery\nI'm ten years burning down the road\nNowhere to run, ain't got nowhere to go\nBorn in the U.S.A.\nI was born in the U.S.A., now\nBorn in the U.S.A.\nI'm a long gone daddy in the U.S.A., now\nBorn in the U.S.A.\nBorn in the U.S.A.\nBorn in the U.S.A.\nI'm a cool rocking daddy in the U.S.A., now",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -274,7 +276,7 @@
                 "artist": "Boston",
                 "id": 12,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "I looked out this morning and the sun was gone\nTurned on some music to start my day\nI lost myself in a familiar song\nI closed my eyes and I slipped away\nIt's more than a feeling\n(More than a feeling)\nWhen I hear that old song they used to play\n(More than a feeling)\nI begin dreaming\n(More than a feeling)\n'Til I see Marianne walk away\nI see my Marianne walkin' away\nSo many people have come and gone\nTheir faces fade as the years go by\nYet I still recall as I wander on\nAs clear as the sun in the summer sky\nIt's more than a feeling\n(More than a feeling)\nWhen I hear that old song they used to play\n(More than a feeling)\nI begin dreaming\n(More than a feeling)\n'Til I see Marianne walk away\nI see my Marianne walkin' away\nWhen I'm tired and thinking cold\nI hide in my music, forget the day\nAnd dream of a girl I used to know\nI closed my eyes and she slipped away\nShe slipped away\nIt's more than a feeling\n(More than a feeling)\nWhen I hear that old song they used to play\n(More than a feeling)\nI begin dreaming\n(More than a feeling)\n'Til I see Marianne walk away",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -284,7 +286,7 @@
                 "artist": "Ray Charles",
                 "id": 13,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "Hit the road, Jack, and don't ya come back\nNo more, no more, no more, no more\nHit the road, Jack, and don't ya come back no more\nWhat'd you say?\nHit the road, Jack, and don't ya come back\nNo more, no more, no more, no more\nHit the road, Jack, and don't ya come back no more\nOld woman, old woman, don't treat me so mean\nYou're the meanest old woman that I've ever seen\nI guess if you say so\nI'll have to pack my things and go (That's right)\nHit the road, Jack, and don't ya come back\nNo more, no more, no more, no more\nHit the road, Jack, and don't ya come back no more\nWhat'd you say?\nHit the road, Jack, and don't ya come back\nNo more, no more, no more, no more\nHit the road, Jack, and don't ya come back no more\n\nNow, baby, listen, baby, don't you treat me this way\n'Cause I'll be back on my feet some day\nDon't care if you do, cause it's understood\nYou ain't got no money, you just a no good\nWell, I guess if you say so\nI'll have to pack my things and go (That's right)\nHit the road, Jack, and don't ya come back\nNo more, no more, no more, no more\nHit the road, Jack, and don't ya come back no more\nWhat'd you say?\nHit the road, Jack, and don't ya come back\nNo more, no more, no more, no more\nHit the road, Jack, and don't ya come back no more\n\nWell (Don't ya come back no more)\nUh, what'd you say? (Don't ya come back no more)\nI didn't understand you (Don't ya come back no more)\nYou can't mean that (Don't ya come back no more)\nOh, now, baby, please (Don't ya come back no more)\nWhat you're trying to do to me? (Don't ya come back no more)",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -294,13 +296,14 @@
     {
         "playlist": "2000s RnB",
         "id": 2,
+        "isPlayable": true,
         "songs": [
             {
                 "title": "U Remind Me",
                 "artist": "Usher",
                 "id": 0,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "Yo, I ain't seeing you in a minute, but I got something to tell you, listen\nSee, the thing about you that caught my eye\nIs the same thing that makes me change my mind\nKinda hard to explain, but girl, I'll try\nYou need to sit down this may take a while\nSee this girl, she sorta looks just like you\nShe even smiles just the way you do\nSo innocent she seemed but I was fooled\nI'm reminded when I look at you\nYou remind me of a girl, that I once knew\nSee her face whenever I, I look at you\nWon't believe all of the things she put me through\nThis is why I just can't get with you\nThought that she was the one for me\n'Til I found out she was on her creep\nOoh, she was sexing everyone, but me\nThis is why we could never be\nYou remind me of a girl, that I once knew\nSee her face whenever I, I look at you\nWon't believe all of the things she put me through\nThis is why I just can't get with you\nI know it's so unfair to you (it's so unfair)\nThat I relate her ignorance to you\nWish I knew, wish I knew how to separate the two\nYou remind me (you remind me)\nWhoa, whoa, oh-oh-oh-oh\nYou remind me of a girl, that I once knew\nSee her face whenever I, I look at you\nWon't believe all of the things she put me through\nThis is why I just can't get with you (gotta let you go)\nYou remind me of a girl that I once knew\nSee her face whenever I, I look at you\nWon't believe all of the things she put me through (all the shit she put me through)\nThis is why I just can't get with you, no, no\nYou remind me of a girl that I once knew\nSee her face whenever I, I look at you\nWon't believe all of the things she put me through\nThis is why I just can't get with you\nYou remind me of a girl that I once knew\nSee her face whenever I, I look at you\nWon't believe all of the things she put me through\nThis is why I just can't get with you\nYou remind me of a girl that I once knew\nSee her face whenever I, I look at you\nWon't believe all of the things she put me through\nThis is why I just can't get with you\nYou remind me of a girl that I once knew\nSee her face whenever I, I look at you\nWouldn't believe all of the things she put me through\nThis is why I just can't get with you",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -310,7 +313,7 @@
                 "artist": "Mario",
                 "id": 1,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "I just can't believe this, man\nIt's just another night of these thoughts\nCan't get this out of my head\nSomebody said they saw you\nThe person you were kissing wasn't me\nAnd I would never ask you\nI just kept it to myself\nI don't wanna know\nIf you're playin' me, keep it on the low\n'Cause my heart can't take it anymore\nAnd if you're creepin', please don't let it show\nOh, baby, I don't wanna know\nOh, oh, baby\nI think about it when I hold you\nWhen lookin' in your eyes, I can't believe\nI don't need to know the truth\nBaby, keep it to yourself\nI don't wanna know\nIf you're playin' me, keep it on the low\n'Cause my heart can't take it anymore\nAnd if you're creepin', please don't let it show\nOh, baby, I don't wanna know\nDid he touch you better than me? (Touch you better than me)\nDid he watch you fall asleep? (Watch you fall asleep, baby)\nDid you show him all those things that you used to do to me? (Oh, do to me, baby)\nIf you're better off that way (better off that way)\nBaby, all that I can say (all that I can say)\nJust go on and do your thing and don't come back to me (oh, stay away from me, baby)\nYo, I don't wanna know your whereabouts or how you're movin'\nI know when you in the house or when you cruisin' (that's right)\nIt's been proven, my love you're abusin'\nI can't understand how a man got you choosin' (yeah)\nUndecided, I came and provided\nMy undivided, you came and denied it (why?)\nDon't even try it, I know when you lyin' (I know when you lyin')\nDon't even do that, I know why you cryin' (stop cryin')\nI'm not applyin' no pressure, just wanna let you know\nThat I don't wanna let you go (I don't wanna let you go)\nAnd I don't wanna let you leave\nCan't say I didn't let you breathe\nGave you extra cheese (come on), put you in a SUV\nYou wanted ice so I made you freeze\nMade you hot like the West Indies (that's right)\nNow it's time you invest in me\n'Cause if not, then it's best you leave, holla, yeah\nI don't wanna know\nIf you're playin' me, keep it on the low\n'Cause my heart can't take it anymore\nAnd if you're creepin', please don't let it show\nOh, baby, I don't wanna know\nIf you're playin' me, keep it on the low\n'Cause my heart can't take it anymore\nAnd if you're creepin', please don't let it show\nOh, baby, I don't wanna know\nIf you're playin' me, keep it on the low\n'Cause my heart can't take it anymore\nAnd if you're creepin', please don't let it show\nOh, baby, I don't wanna know",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -320,7 +323,7 @@
                 "artist": "Destiny's Child",
                 "id": 2,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "Say my name, say my name\nIf no one is around you\nSay baby I love you\nIf you ain't runnin' game\nSay my name, say my name\nYou actin' kinda shady\nAin't callin' me baby\nWhy the sudden change\nSay my name, say my name\nIf no one is around you\nSay baby I love you\nIf you ain't runnin' game\nSay my name, say my name\nYou actin' kinda shady\nAin't callin' me baby\nBetter say my name\nAny other day\nI would call and you would say\nBaby how's your day\nBut today, it ain't the same\nEvery other word\nIs 'uh-huh' yeah 'okay\nCould it be that you\nAre at the crib with another lady\nIf you took it there\nFirst of all, let me say\nI am not the one\nTo sit around, and be played\nSo prove yourself to me\nI am the girl that you claim\nWhy don't you say the thangs\nThat you said to me yesterday\nI know you say that I am assuming things\nSomething's going down that's the way it seems\nShouldn't be the reason why you're acting strange\nIf nobody's holding you back from me\n'Cause I know how you usually do\nWhen you say everything to me times two\nWhy can't you just tell the truth\nIf somebody's there then tell me who\nSay my name, say my name\nIf no one is around you\nSay baby I love you\nIf you ain't runnin' game\nSay my name, say my name\nYou actin' kinda shady\nAin't callin' me baby\nWhy the sudden change\nSay my name, say my name\nIf no one is around you\nSay baby I love you\nIf you ain't runnin' game\nSay my name, say my name\nYou actin' kinda shady\nAin't callin' me baby\nBetter say my name\nWhat is up with this\nTell the truth, who you with\nHow would you like it if\nI came over with my clique\nDon't try to change it now\nSayin you gotta bounce\nWhen two seconds ago\nYou said you just got in the house\nIt's hard to believe that you\nAre at home, by yourself\nWhen I just heard the voice\nHeard the voice of someone else\nJust this question why\nDo you feel you gotta lie\nGettin' caught up in your game\nWhen you can not say my name\nI know you say that I am assuming things\nSomething's going down that's the way it seems\nShouldn't be the reason why you're acting strange\nIf nobody's holding you back from me\n'Cause I know how you usually do\nWhen you say everything to me times two\nWhy can't you just tell the truth\nIf somebody's there then tell me who\nSay my name, say my name\nIf no one is around you\nSay baby I love you\nIf you ain't runnin' game\nSay my name, say my name\nYou actin' kinda shady\nAin't callin' me baby\nWhy the sudden change\nSay my name, say my name\nIf no one is around you\nSay baby I love you\nIf you ain't runnin' game\nSay my name, say my name\nYou actin' kinda shady\nAin't callin' me baby\nBetter say my name\n",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -330,7 +333,7 @@
                 "artist": "Mariah Carey",
                 "id": 3,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "All up in the blogs\nSaying we met at the bar\nWhen I don't even know who you are\nSaying we up in your house\nSaying I'm up in your car\nBut you in LA and I'm out at Jermaine's\nI'm up in the A\nYou so so lame\nAnd no one here even mentions your name\nIt must be the weed, it must be the E\n'Cause you've beem popping hood\nYou get it popping\nOh, why you so obsessed with me (boy, I wanna know)\nLying that you're sexing me (when everybody knows)\nIt's clear that you're upset with me\nFinally found a girl that you couldn't impress\nLast man on the earth still couldn't hit this\nYou're delusional, you're delusional\nBoy you're losing your mind\nIt's confusing yo', you're confused you know\nWhy you're wasting your time?\nGot you all fired up with your Napoleon complex\nSeeing right through you like you're bathing in Windex\nOh, oh, oh boy why you so obsessed with me?\nSo, oh, oh, oh, oh...\nYou on your job\nYou hating hard\nAin't gon' feed you\nI'm gonna let you starve\nGasping for air\nI'm ventilation\nYou out of breath\nHope you ain't waiting\nTelling the world how much you miss me\nBut we never were\nSo why you trippin'?\nYou a mom and pop\nI'm a corporation\nI'm the press conference\nYou a conversation\nOh, why you so obsessed with me (and boy I wanna know)\nLying that you're sexing me (when everybody knows)\nIt's clear that you're upset with me (oh, oh, oh)\nFinally found a girl that you couldn't impress\nLast man on the earth still couldn't hit this\nYou're delusional, you're delusional\nBoy you're losing your mind\nIt's confusing yo, you're confused, you know\nWhy you wasting your time?\nGot you all fired up with your Napoleon complex\nSeeing right through you like you're bathing in Windex\nOh, oh, oh, boy why you so obsessed with me\nBoy, I wanna know\nLying that you're sexing me\nWhen everybody knows\nIt's clear that you're upset with me\nOh, oh, oh",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -340,7 +343,7 @@
                 "artist": "Nelly, Kelly Rowland",
                 "id": 4,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "I love you and I need you\nNelly, I love you\nI do need you\nNo matter what I do (woo)\nAll I think about is you (uh huh)\nEven when I'm with my boo\nBoy, you know I'm crazy over you\nNo matter what I do\nAll I think about is you\nEven when I'm with my boo\nYou know I'm crazy over you (uh, uh, uh, uh)\nI met this chick and she just moved right up the block from me and uh\nShe got the hots for me, the finest thing my hood done seen\nBut oh, no, oh, no\nShe got a man and a son though (check it)\nBut that's okay 'cause I\nWait for my cue and just listen, play my position like a shortstop\nPick up everything mami hittin'\nAnd in no time (no time)\nI'm gonna make this one here mine\nAnd that's for sure 'cause I\nI never been the type to break up a happy home, but uh\nThere's somethin' 'bout baby girl I just can't leave alone\nSo tell me, Ma, what's it gonna be? She said\nYou don't know what you mean to me (come on)\nNo matter what I do (woo)\nAll I think about is you (uh huh)\nEven when I'm with my boo\nBoy, you know I'm crazy over you\nNo matter what I do\nAll I think about is you\nEven when I'm with my boo\nYou know I'm crazy over you\nI see a lot and you look and I never say a word\nI know how n- start actin' trippin' out here about they girls\nAnd there's no way\nNelly gon' fight over no dame (I ain't fighting' over no dame)\nAs you can see, but I\nI like your steez, your style, your whole demeanor\nThe way you come through and holla and swoop me in his two-seater\nNow that's gangsta\nAnd I got special ways to thank ya\nDon't you forget it, but uh\nIt ain't that easy for you to pack up and leave him, but uh\nYou and dirty got ties for different reasons\nI respect that and right before I turn to leave, she said (she said, she said, she said)\nYou don't know what you mean to me (come on)\nNo matter what I do (woo)\nAll I think about is you\nEven when I'm with my boo (yeah)\nBoy, you know I'm crazy over you (put your hands up)\nNo matter what I do (put your hands up)\nAll I think about is you (yeah)\nEven when I'm with my boo\nYou know I'm crazy over you...",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -350,17 +353,17 @@
                 "artist": "T-Pain, Yung Joc",
                 "id": 5,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "Baby girl\nWhats your name\nLet me talk to you\nLet me buy you a drink\nI'm t-pain, you know me\nKonvict music nappy boy ooh wee\nI know da club close at 3\nWhats the chance of you rollin wit me\nBack to the crib\nShow you how I live\nLets get drunk forget what we did\nI'mma buy you a drank\nThen i'mma take you home with me\nI got money in the bank\nShawty whachu think bout that\nI'll be in the grey cadillac\nWe in the bed like\nOoh ooh ohh, ooh ooh\nWe in the bed like\nOoh ooh ooh, ooh ooh\nTalk to me, i talk back\nLets talk money, i talk that\nCrunk juice bombs\nOakley shades\nShawty got class\nOh behave\nLets get gone\nWalk it out (walk it out)\nJust like that\nThat's what I'm talkin' bout\nWe gone have fun\nYou gone see\nOn that patron\nYou should get like me\nI'mma buy you a drank\nThen i'mma take you home with me\nI got money in the bank\nShawty whachu think bout that\nI'll be in the grey cadillac\nWe in the bed like\nOoh ooh ohh, ooh ooh\nWe in the bed like\nOoh ooh ooh, ooh oo\nWon't you meet me at the bar\nRespect big pimpin'\nTell me how you feel\nMama tell me what you sippin'\nA certified dime piece\nDeserve Louis 13\n150 a shot\n3 for you and 3 for me\nI'm checkin' yo body language\nI love the conversation\nAnd when you lick your lips\nI get a tinglin' sensation\nNow were both bout tipsy\nYou say you in the mood\nAll i need is bout a hour\nBetter yet maybe two\nLet me take you where i live\nFerrari switch gears\nWhen i whisper in ya ear\nYa legs hit the chandelier\nPassion fruit and sex\nAll in the atmosphere\nI'mma let t-pain sing it\nSo he can make it clear\nI'mma buy you a drank\nThen i'mma take you home with me\nI got money in the bank\nShawty whachu think bout that\nI'll be in the grey cadillac\nWe in the bed like\nOoh ooh ohh, ooh ooh\nWe in the bed like\nOoh ooh ooh, ooh ooh",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
             },
             {
-                "title": "Like A Boy'",
+                "title": "Like A Boy",
                 "artist": "Ciara",
                 "id": 6,
                 "isErrorSong": false,
-                "lyrics": "TBD",
+                "lyrics": "C-I-A-R-A\nPull up your pants (just like 'em)\nTake out the trash (just like 'em)\nGettin' your cash like 'em\nFast like 'em\nGirl, you wanna act like he did (I'm talkin' 'bout)\nSecurity codes on everything\nOn vibrate so your phone don't ever ring (never ring)\nJoint account and another one he don't know about (hey)\nWish we could switch up the roles and I could be that\nTell you I love you, but when you call, I never get back (oh)\nWould you ask them questions like me, like where you be at?\n'Cause I'm out, four in the morning on the corner, rolling, doing my own thing\nWhat if I, had a thing on the side\nMade you cry?\nWould the rules change up or would they still apply?\nIf I played you like a toy\nSometimes I wish I could act like a boy\nCan't be getting mad what, you mad?\nCan't handle that\nCan't be getting mad what, you mad?\nCan't handle that\nGirl, go ahead and be (just like 'em)\nGo run the streets (just like 'em)\nGo home, missin' sleep like 'em, creep like 'em\nFront wit' your friends\nAct hard when you wit' 'em, like 'em\nKeep a straight face when you tell a lie\nAlways keep an airtight alibi\nKeep it hid in the dark\nWhat he don't know won't break his heart (hey)\nWish we could switch up the roles and I could be that\nTell you I love you, but when you call, I never get back\nWould you ask them questions like me, like where you be at?\n'Cause I'm out, four in the morning on the corner, rolling, doing my own thing\nWhat if I, had a thing on the side (what if I)\nMade you cry? (made you cry)\nWould the rules change up or would they still apply?\nIf I played you like a toy\nSometimes I wish I could act like a boy\nCan't be getting mad what, you mad?\nCan't handle that\nCan't be getting mad what, you mad?\nCan't handle that\nCan't be getting mad what, you mad?\nCan't handle that\nCan't be getting mad what, you mad?\nCan't handle that\nIf I was always gone\nLet the sun beat me home (would you like that?)\nTold you I was with my crew when I knew it wasn't true if I act like you (would you like that?)\nWalked a mile up in your shoes (would you like that?)\nMessing with your head again\nDose of your own medicine\nWhat if I, had a thing on the side (what if I)\nMade you cry? (made you cry)\nWould the rules change up or would they still apply?\nIf I played you like a toy\nSometimes I wish I could act like a boy\nCan't be getting mad what, you mad?\nCan't handle that\nCan't be getting mad what, you mad?\nCan't handle that\nCan't be getting mad what, you mad?\nCan't handle that\nCan't be getting mad what, you mad?\nCan't handle that\nR-A, go, here's the clutch\nIf I paged you (would you like that?)\nHad friends (would you like that?)\nNever call (would you like that?)\nNo, no, you wouldn't like that, no\nWhat if I, made you cry? Would they still apply?\nWhat if I, if I played you like a toy\nSometimes I wish I did act like a boy",
                 "isAvailable": true,
                 "isCorrect":false,
                 "isWrong":false
@@ -438,12 +441,13 @@
         ]
     },
     {
-        "playlist": "Another Playlist",
+        "playlist": "60s Rock",
         "id": 3,
+        "isPlayable": true,
         "songs": [
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "Eleanor Rigby",
+                "artist": "The Beatles",
                 "id": 0,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -452,8 +456,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "I Get Around",
+                "artist": "The Beach Boys",
                 "id": 1,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -462,8 +466,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "White Rabbit",
+                "artist": "Jefferson Airplane",
                 "id": 2,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -472,8 +476,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "Paint It, Black",
+                "artist": "The Rolling Stones",
                 "id": 3,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -482,8 +486,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "Mrs. Robinson",
+                "artist": "Simon & Garfunkel",
                 "id": 4,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -492,8 +496,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "Little Girl Blue",
+                "artist": "Janis Joplin",
                 "id": 5,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -502,8 +506,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "These Boots Are Made For Walking",
+                "artist": "Nancy Sinatra",
                 "id": 6,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -512,8 +516,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "House Of The Rising Sun",
+                "artist": "The Animals",
                 "id": 7,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -522,8 +526,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "I'm Waiting For My Man",
+                "artist": "The Velvet Underground",
                 "id": 8,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -532,8 +536,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "Daydream Believer",
+                "artist": "The Monkees",
                 "id": 9,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -542,8 +546,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "Ring of Fire",
+                "artist": "Johnny Cash",
                 "id": 10,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -552,8 +556,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "My Generation",
+                "artist": "The Who",
                 "id": 11,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -562,8 +566,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "Son Of A Preacher Man",
+                "artist": "Dusty Springfield",
                 "id": 12,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -572,8 +576,8 @@
                 "isWrong":false
             },
             {
-                "title": "TBD",
-                "artist": "TBD",
+                "title": "Hey Joe",
+                "artist": "Jimmy Hendrix",
                 "id": 13,
                 "isErrorSong": false,
                 "lyrics": "TBD",
@@ -583,6 +587,1328 @@
             }
         ]
     },
-    
+    {
+        "playlist": "Disney Hits",
+        "id": 4,
+        "isPlayable": true,
+        "songs": [
+            {
+                "title": "We Don't Talk About Bruno",
+                "artist": "Carolina Gaitan...",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Friend Like Me",
+                "artist": "Will Smith",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Part of Your World",
+                "artist": "Halle",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Let It Go",
+                "artist": "Idina Menzel",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "You're Welcome",
+                "artist": "Dwayne Johnson",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Just Around the Riverbend",
+                "artist": "Judy Kuhn",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Mother Knowns Best",
+                "artist": "Donna Murphy",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "A Whole New World",
+                "artist": "Lea Salonga...",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Be Our Guest",
+                "artist": "Ewan McGregor...",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "How Far I'll Go",
+                "artist": "Auli'i Cravalho",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Kiss the Girl",
+                "artist": "Daveed Diggs...",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Arabian Nights",
+                "artist": "",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Go the Distance",
+                "artist": " ",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "I Wanna Be Like You",
+                "artist": "Christopher Walken",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            }
+        ]
+    },
+    {
+        "playlist": "Broadway Melody",
+        "id": 5,
+        "isPlayable": true,
+        "songs": [
+            {
+                "title": "I Feel Pretty",
+                "artist": "",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Over the Rainbow",
+                "artist": "",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "The Merry Old Land Of Oz",
+                "artist": "",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "All That Jazz",
+                "artist": "",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "The Lady is a Tramp",
+                "artist": "",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "'S Wonderful",
+                "artist": "",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Luck Be a Lady",
+                "artist": "",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "You're the Top",
+                "artist": "",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Defying Gravity",
+                "artist": "",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "I Dreamed a Dream",
+                "artist": "",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Singin' in the Rain",
+                "artist": "",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Cabaret",
+                "artist": "",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Satisfied",
+                "artist": " ",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Wouldn't it Be Loverly",
+                "artist": "",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            }
+        ]
+    },
+    {
+        "playlist": "80s Pop",
+        "id": 6,
+        "isPlayable": true,
+        "songs": [
+            {
+                "title": "I Wanna Dance With Somebody",
+                "artist": "Whitney Houston",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Another One Bites the Dust",
+                "artist": "Queen",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Faith",
+                "artist": "George Michael",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Like a Virgin",
+                "artist": "Madonna",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Kiss",
+                "artist": "Prince",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Girls Just Wanna Have Fun",
+                "artist": "Cindy Lauper",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Walking On Sunshine",
+                "artist": "Katrina & The Waves",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "It's My Life",
+                "artist": "Talk Talk",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "A View to a Kill",
+                "artist": "Duran Duran",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Physical",
+                "artist": "Olivia Newton-John",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Lucky Star",
+                "artist": "Madonna",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "I'm Still Standing",
+                "artist": "Elton John",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Karma Chameleon",
+                "artist": "Culture Club",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Running Up That Hill",
+                "artist": "",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            }
+        ]
+    },
+    {
+        "playlist": "Queen B",
+        "id": 7,
+        "isPlayable": true,
+        "songs": [
+            {
+                "title": "CUFF IT",
+                "artist": "Beyoncé",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Halo",
+                "artist": "Beyoncé",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Love On Top",
+                "artist": "Beyoncé",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "If I Were a Boy",
+                "artist": "Beyoncé",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Sweet Dreams",
+                "artist": "Beyoncé",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Irreplaceable",
+                "artist": "Beyoncé",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Best Thing I Never Had",
+                "artist": "Beyoncé",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Partition",
+                "artist": "Beyoncé",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "XO",
+                "artist": "Beyoncé",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Diva",
+                "artist": "Beyoncé",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Beautiful Liar",
+                "artist": "Beyoncé, Shakira",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Sorry",
+                "artist": "Beyoncé",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Countdown",
+                "artist": "Beyoncé",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Telephone",
+                "artist": "Lady Gaga, Beyoncé",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            }
+        ]
+    },
+    {
+        "playlist": "2010s Top Hits",
+        "id": 8,
+        "isPlayable": true,
+        "songs": [
+            {
+                "title": "Only Girl (In The World)",
+                "artist": "Rihanna",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "California Gurls",
+                "artist": "Katty Perry, Snoop Dogg",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Tik Tok",
+                "artist": "Ke$ha",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Baby",
+                "artist": "Justin Bieber, Ludacris",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Black and Yellow",
+                "artist": "Wiz Khalifa",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Teenage Dream",
+                "artist": "Katy Perry",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Pumped Up Kicks",
+                "artist": "Foster The People",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "In My Head",
+                "artist": "Jason Derulo",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Find Your Love",
+                "artist": "Drake",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Te Amo",
+                "artist": "Rihanna",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Billionaire",
+                "artist": "Travie McCoy, Bruno Mars",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Animal",
+                "artist": "Neon Trees",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Alejandro",
+                "artist": "Lady Gaga",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Hey, Soul Sister",
+                "artist": "Train",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            }
+        ]
+    },
+    {
+        "playlist": "Rock Essentials",
+        "id": 9,
+        "isPlayable": true,
+        "songs": [
+            {
+                "title": "Angry",
+                "artist": "The Rolling Stones",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Welcome To The Jungle",
+                "artist": "Guns 'N Roses",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Back In Black",
+                "artist": "AC/DC",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "School's Out",
+                "artist": "Alice Cooper",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Wish You Were Here",
+                "artist": "Pink Floyd",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Livin' On A Prayer",
+                "artist": "Bon Jovi",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Come As You Are",
+                "artist": "Nirvana",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Losing My Religion",
+                "artist": "R.E.M.",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Hotel California",
+                "artist": "Eagles",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Knockin' On Heaven's Door",
+                "artist": "Guns 'N Roses",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Sultans Of Swing",
+                "artist": "Dire Straits",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Stairway To Heaven",
+                "artist": "Led Zeppelin",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Creep",
+                "artist": "Radiohead",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "All Along The Watchtower",
+                "artist": "Jimi Hendrix",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            }
+        ]
+    },
+    {
+        "playlist": "Jazz Crooners",
+        "id": 10,
+        "isPlayable": true,
+        "songs": [
+            {
+                "title": "New York, New York",
+                "artist": "Frank Sinatra",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Everybody Loves Somebody",
+                "artist": "Dean Martin",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Put Your Head On My Shoulder",
+                "artist": "Paul Anka",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Puttin' On The Ritz",
+                "artist": "Fred Astaire",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Strangers In The Night",
+                "artist": "Frank Sinatra",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Try To Remember",
+                "artist": "Harry Belafonte",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Smile",
+                "artist": "Gregory Porter",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "You Are My Lucky Star",
+                "artist": "Sammy Davis Jr.",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Mess Around",
+                "artist": "Ray Charles",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Sway",
+                "artist": "Dean Martin",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Dinah",
+                "artist": "Bing Crosby",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "L-O-V-E",
+                "artist": "Gregory Porter",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Beyond The Sea",
+                "artist": "Bobby Darin",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Lullaby Of Broadway",
+                "artist": "Tony Bennett",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            }
+        ]
+    },
+    {
+        "playlist": "Queens Of Soul",
+        "id": 11,
+        "isPlayable": true,
+        "songs": [
+            {
+                "title": "Rehab",
+                "artist": "Amy Winehouse",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Hurt",
+                "artist": "Arlo Parks",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "I Say A Little Prayer",
+                "artist": "Aretha Franklin",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "On & On",
+                "artist": "Erikah Badu",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Strangers In The Night",
+                "artist": "Frank Sinatra",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Try To Remember",
+                "artist": "Harry Belafonte",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Smile",
+                "artist": "Gregory Porter",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "You Are My Lucky Star",
+                "artist": "Sammy Davis Jr.",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Mess Around",
+                "artist": "Ray Charles",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Sway",
+                "artist": "Dean Martin",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Dinah",
+                "artist": "Bing Crosby",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "L-O-V-E",
+                "artist": "Gregory Porter",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Beyond The Sea",
+                "artist": "Bobby Darin",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Lullaby Of Broadway",
+                "artist": "Tony Bennett",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            }
+        ]
+    },
+    {
+        "playlist": "Skate Punk",
+        "id": 12,
+        "isPlayable": true,
+        "songs": [
+            {
+                "title": "New York, New York",
+                "artist": "Frank Sinatra",
+                "id": 0,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Everybody Loves Somebody",
+                "artist": "Dean Martin",
+                "id": 1,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Put Your Head On My Shoulder",
+                "artist": "Paul Anka",
+                "id": 2,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Puttin' On The Ritz",
+                "artist": "Fred Astaire",
+                "id": 3,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Strangers In The Night",
+                "artist": "Frank Sinatra",
+                "id": 4,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Try To Remember",
+                "artist": "Harry Belafonte",
+                "id": 5,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Smile",
+                "artist": "Gregory Porter",
+                "id": 6,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "You Are My Lucky Star",
+                "artist": "Sammy Davis Jr.",
+                "id": 7,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Mess Around",
+                "artist": "Ray Charles",
+                "id": 8,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Sway",
+                "artist": "Dean Martin",
+                "id": 9,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Dinah",
+                "artist": "Bing Crosby",
+                "id": 10,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "L-O-V-E",
+                "artist": "Gregory Porter",
+                "id": 11,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Beyond The Sea",
+                "artist": "Bobby Darin",
+                "id": 12,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            },
+            {
+                "title": "Lullaby Of Broadway",
+                "artist": "Tony Bennett",
+                "id": 13,
+                "isErrorSong": false,
+                "lyrics": "TBD",
+                "isAvailable": true,
+                "isCorrect":false,
+                "isWrong":false
+            }
+        ]
+    }
 ]
  

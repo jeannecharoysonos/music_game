@@ -12,8 +12,10 @@ struct PlaylistRow: View {
     
     var body: some View {
         HStack{
-            Text(playlist.playlist)
-            Spacer()
+            if playlist.isPlayable {
+                Text(playlist.playlist)
+                Spacer()
+            }
         }
         .padding()
     }

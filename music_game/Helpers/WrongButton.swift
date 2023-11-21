@@ -29,7 +29,7 @@ struct WrongButton: View {
 
 struct WrongButton_Previews: PreviewProvider {
     static var previews: some View {
-        WrongButton(isWrong: .constant(true),
+        WrongButton(isWrong: .constant(false),
                     isAvailable: .constant(true))
     }
 }

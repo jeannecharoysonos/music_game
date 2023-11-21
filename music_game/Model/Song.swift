@@ -14,6 +14,8 @@ struct Playlist: Decodable, Identifiable {
     var playlist: String
     var id: Int
     var songs: [Song]
+    var isPlayable: Bool
+
 }
 
 struct Song: Codable, Identifiable, Hashable{

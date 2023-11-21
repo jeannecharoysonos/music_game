@@ -23,9 +23,13 @@
 		5E4E8B8D2ABD9C22008E1C2D /* PlaylistList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B8C2ABD9C22008E1C2D /* PlaylistList.swift */; };
 		5E4E8B942ABD9DE2008E1C2D /* PlaylistRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B932ABD9DE2008E1C2D /* PlaylistRow.swift */; };
 		5E4E8B972ABDD891008E1C2D /* CorrectButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E4E8B962ABDD891008E1C2D /* CorrectButton.swift */; };
-		5E574B2F2AC195A8005D5C61 /* QuizStart.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E574B2E2AC195A8005D5C61 /* QuizStart.swift */; };
+		5EB9DA6A2AE2CFDA0072D1FC /* TimerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EB9DA692AE2CFDA0072D1FC /* TimerView.swift */; };
+		5EBFD4A22B060A5000DFAE62 /* PlaylistDoneButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBFD4A12B060A5000DFAE62 /* PlaylistDoneButton.swift */; };
+		5EBFD4A62B0CC3BE00DFAE62 /* Score.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBFD4A52B0CC3BE00DFAE62 /* Score.swift */; };
+		5EBFD4A82B0CEDA100DFAE62 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBFD4A72B0CEDA100DFAE62 /* ProfileView.swift */; };
+		5EBFD4AA2B0CF07E00DFAE62 /* TeamAButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBFD4A92B0CF07E00DFAE62 /* TeamAButton.swift */; };
+		5EBFD4AC2B0CF46300DFAE62 /* TeamBButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EBFD4AB2B0CF46300DFAE62 /* TeamBButton.swift */; };
 		5EC5A9762AD82FA100F3849E /* WrongButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC5A9752AD82FA000F3849E /* WrongButton.swift */; };
-		5EC5A9782AD830F800F3849E /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC5A9772AD830F800F3849E /* Profile.swift */; };
 		5EC5A97A2AD83CB800F3849E /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EC5A9792AD83CB800F3849E /* User.swift */; };
 /* End PBXBuildFile section */
 
@@ -67,9 +71,13 @@
 		5E4E8B8C2ABD9C22008E1C2D /* PlaylistList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistList.swift; sourceTree = "<group>"; };
 		5E4E8B932ABD9DE2008E1C2D /* PlaylistRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistRow.swift; sourceTree = "<group>"; };
 		5E4E8B962ABDD891008E1C2D /* CorrectButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CorrectButton.swift; sourceTree = "<group>"; };
-		5E574B2E2AC195A8005D5C61 /* QuizStart.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizStart.swift; sourceTree = "<group>"; };
+		5EB9DA692AE2CFDA0072D1FC /* TimerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerView.swift; sourceTree = "<group>"; };
+		5EBFD4A12B060A5000DFAE62 /* PlaylistDoneButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlaylistDoneButton.swift; sourceTree = "<group>"; };
+		5EBFD4A52B0CC3BE00DFAE62 /* Score.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Score.swift; sourceTree = "<group>"; };
+		5EBFD4A72B0CEDA100DFAE62 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		5EBFD4A92B0CF07E00DFAE62 /* TeamAButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamAButton.swift; sourceTree = "<group>"; };
+		5EBFD4AB2B0CF46300DFAE62 /* TeamBButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeamBButton.swift; sourceTree = "<group>"; };
 		5EC5A9752AD82FA000F3849E /* WrongButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WrongButton.swift; sourceTree = "<group>"; };
-		5EC5A9772AD830F800F3849E /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		5EC5A9792AD83CB800F3849E /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -162,8 +170,7 @@
 			isa = PBXGroup;
 			children = (
 				5E4E8ACD2AB49409008E1C2D /* ContentView.swift */,
-				5E574B2E2AC195A8005D5C61 /* QuizStart.swift */,
-				5EC5A9772AD830F800F3849E /* Profile.swift */,
+				5EBFD4A72B0CEDA100DFAE62 /* ProfileView.swift */,
 				5E574B2D2AC19583005D5C61 /* PlaylistLevel */,
 				5E4E8B8E2ABD9C26008E1C2D /* SongLevel */,
 			);
@@ -201,8 +208,13 @@
 		5E4E8B952ABDD875008E1C2D /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
+				5EB9DA692AE2CFDA0072D1FC /* TimerView.swift */,
+				5EBFD4A52B0CC3BE00DFAE62 /* Score.swift */,
+				5EBFD4A92B0CF07E00DFAE62 /* TeamAButton.swift */,
+				5EBFD4AB2B0CF46300DFAE62 /* TeamBButton.swift */,
 				5E4E8B962ABDD891008E1C2D /* CorrectButton.swift */,
 				5EC5A9752AD82FA000F3849E /* WrongButton.swift */,
+				5EBFD4A12B060A5000DFAE62 /* PlaylistDoneButton.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -347,18 +359,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5EBFD4A62B0CC3BE00DFAE62 /* Score.swift in Sources */,
 				5E4E8B972ABDD891008E1C2D /* CorrectButton.swift in Sources */,
 				5E4E8B892ABD9239008E1C2D /* SongList.swift in Sources */,
 				5E4E8B8B2ABD9394008E1C2D /* SongRow.swift in Sources */,
-				5E574B2F2AC195A8005D5C61 /* QuizStart.swift in Sources */,
+				5EB9DA6A2AE2CFDA0072D1FC /* TimerView.swift in Sources */,
 				5E4E8B942ABD9DE2008E1C2D /* PlaylistRow.swift in Sources */,
 				5E4E8ACE2AB49409008E1C2D /* ContentView.swift in Sources */,
 				5EC5A97A2AD83CB800F3849E /* User.swift in Sources */,
+				5EBFD4A82B0CEDA100DFAE62 /* ProfileView.swift in Sources */,
 				5E4E8B8D2ABD9C22008E1C2D /* PlaylistList.swift in Sources */,
 				5E4E8B852ABD908E008E1C2D /* ModelData.swift in Sources */,
-				5EC5A9782AD830F800F3849E /* Profile.swift in Sources */,
+				5EBFD4A22B060A5000DFAE62 /* PlaylistDoneButton.swift in Sources */,
+				5EBFD4AC2B0CF46300DFAE62 /* TeamBButton.swift in Sources */,
 				5E4E8B812ABD904C008E1C2D /* SongDetail.swift in Sources */,
 				5EC5A9762AD82FA100F3849E /* WrongButton.swift in Sources */,
+				5EBFD4AA2B0CF07E00DFAE62 /* TeamAButton.swift in Sources */,
 				5E4E8ACC2AB49409008E1C2D /* music_gameApp.swift in Sources */,
 				5E4E8B872ABD90D2008E1C2D /* Song.swift in Sources */,
 			);

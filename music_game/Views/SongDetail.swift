@@ -4,25 +4,34 @@
 //
 //  Created by Jeanne Charoy on 22/09/2023.
 //
+//add a guess button that controls the timer
 
 import SwiftUI
 
 struct SongDetail: View {
     @EnvironmentObject var modelData: ModelData
+    //@Binding var userIndex: Int
     var playlist: Playlist
     var song: Song
+    var user: User
+
+    var userIndex:Int{
+        modelData.users.firstIndex(where: {$0.userIndex == user.userIndex})!
+    }
     
     var playlistIndex:Int{
-        modelData.playlists.firstIndex(where: {$0.id == playlist.id})!
+       modelData.playlists.firstIndex(where: {$0.id == playlist.id})!
     }
     
     var songIndex: Int {
-       modelData.playlists[playlistIndex].songs.firstIndex(where: {$0.id == song.id})!
+      modelData.playlists[playlistIndex].songs.firstIndex(where: {$0.id == song.id})!
     }
     
     
     var body: some View {
         ScrollView{
+            
+            
             VStack(alignment: .leading){
                 HStack{
                     Text(song.title)
@@ -39,10 +48,11 @@ struct SongDetail: View {
                 
                 Divider()
                 HStack{
-                    CorrectButton(isCorrect: $modelData.playlists[playlistIndex].songs[songIndex].isCorrect,
-                                  isAvailable: $modelData.playlists[playlistIndex].songs[songIndex].isAvailable)
+                   CorrectButton(isAvailable: $modelData.playlists[playlistIndex].songs[songIndex].isAvailable,
+                                 count:$modelData.users[userIndex].score,
+                                 time:$modelData.users[userIndex].timeRemaining)
+    
                     
-                Divider()
                     WrongButton(isWrong: $modelData.playlists[playlistIndex].songs[songIndex].isWrong,
                                 isAvailable: $modelData.playlists[playlistIndex].songs[songIndex].isAvailable)
                     
@@ -50,21 +60,21 @@ struct SongDetail: View {
             }
             .padding()
         }
-        .navigationTitle(song.title)
         .navigationBarTitleDisplayMode(.inline)
+        .navigationBarBackButtonHidden(false)
+        .navigationViewStyle(.stack)
+
     }
 
 }
 
 struct SongDetail_Previews: PreviewProvider {
-    static var playlists = ModelData().playlists
     static let modelData = ModelData()
     
     static var previews: some View {
-        SongDetail(
-            playlist:playlists[0],
-            song:playlists[0].songs[0]
-                  )
+        SongDetail(playlist:modelData.playlists[0],
+            song:modelData.playlists[0].songs[0],
+                   user:modelData.users[0])
                 .environmentObject(modelData)
     }
 }

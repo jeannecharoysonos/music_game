@@ -12,7 +12,8 @@ final class ModelData: ObservableObject {
     //@Published var songs: [Song] = load("gameData.json")
     
     @Published var playlists: [Playlist] = load("gameData.json")
-    @Published var user = User.default
+    @Published var users = [User(teamName: "Team A",userIndex: 0, score: 0, roundNb: 0, timeRemaining: 60),
+                            User(teamName: "Team B",userIndex: 1, score: 0, roundNb: 0, timeRemaining: 60)]
 
 
 }

@@ -13,7 +13,7 @@ struct music_gameApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ProfileView()
                 .environmentObject(modelData)
         }
     }

@@ -8,20 +8,23 @@
 import SwiftUI
 
 struct CorrectButton: View {
-    @Binding var isCorrect: Bool
+   // @Binding var isCorrect: Bool
     @Binding var isAvailable: Bool
+    @Binding var count: Int
+    @Binding var time: Int
     
     var body: some View {
         
         let action: () -> Void = {
-            isCorrect = true
+           // isCorrect = true
             isAvailable = false
+            count += 1
+            time += 15
         }
         
         Button("Correct",action: action)
             .buttonStyle(.borderedProminent)
-            .tint(isCorrect ? .green : .blue)
-           // .opacity(isAvailable ? 1 : 0.5)
+           .opacity(isAvailable ? 1 : 0.5)
             .disabled(isAvailable ? false: /*@START_MENU_TOKEN@*/true/*@END_MENU_TOKEN@*/)
 
     }
@@ -31,8 +34,10 @@ struct CorrectButton: View {
 struct CorrectButton_Previews: PreviewProvider {
     
     static var previews: some View {
-        CorrectButton(isCorrect: .constant(false), 
-                      isAvailable: .constant(false))
+        CorrectButton(//isCorrect: .constant(false),
+                      isAvailable: .constant(true),
+                      count: .constant(0),
+                      time: .constant(0))
 
     }
 }
