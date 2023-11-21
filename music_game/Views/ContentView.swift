@@ -14,42 +14,44 @@ struct ContentView: View {
 
 
     var body: some View {
+        
         NavigationView {
-            VStack(spacing: 10){
-                Text("Hi " + modelData.users[userIndex].teamName)
-                    .bold()
-                    .font(.title)
-                Text("You're the quiz team")
-                    .bold()
-                    .font(.title)
-                
-                
-                Spacer()
-                    .frame(height: 50)
-                Text("Your role is to play songs, stop them when you want, and have " + modelData.users[otherUserIndex].teamName +  " guess the lyrics!")
-                Spacer()
-                    .frame(height: 10)
-                Text("To play and stop songs, you must ask the Sonos speaker using voice")
-                
-                Spacer()
-                    .frame(height: 10)
-                
-                Text("There is no need for a wakeword, just ask Sonos to play or stop music as you would a person!")
-                
-                Spacer()
-                    .frame(height: 10)
-                Text("Go to the next screen to get a list of four playlists, and ask the other team which one they want")
-                
-                Spacer()
-                    .frame(height: 50)
+                VStack(spacing: 10){
+                    Text("Hi " + modelData.users[userIndex].teamName)
+                        .bold()
+                        .font(.title)
+                    Text("You're the quiz team")
+                        .bold()
+                        .font(.title)
+                    
+                    Spacer()
+                        .frame(height: 50)
+                    Text("Your role is to play songs and have " + modelData.users[otherUserIndex].teamName +  " guess the lyrics!")
+                    Spacer()
+                        .frame(height: 10)
+                    Text("To play the songs, you must ask the Sonos speaker using voice")
+                    
+                    Spacer()
+                        .frame(height: 10)
+                    
+                    Text("Please talk naturally to the Sonos speaker, without using a wakeword.")
+                    
+                    Spacer()
+                        .frame(height: 10)
+                    Text("Go to the next screen to get a list of four playlists, and ask the other team which one they want")
+                    
+                    Spacer()
+                        .frame(height: 50)
                     NavigationLink(destination: PlaylistList(user: modelData.users[userIndex])) {
                         Text("GO TO PLAYLISTS")
+                    }
                 }
             }
        }
         .navigationViewStyle(.stack)
 
     }
+    
 }
 
 struct ContentView_Previews: PreviewProvider {    

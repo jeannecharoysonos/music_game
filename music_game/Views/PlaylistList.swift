@@ -45,7 +45,7 @@ struct PlaylistList: View {
                 VStack{
                     Score(userIndex: $modelData.users[userIndex].userIndex)
                 }.padding(30)
-
+                
                 Spacer()
                 VStack{
                     TimerView(userIndex: $modelData.users[userIndex].userIndex)
@@ -53,14 +53,15 @@ struct PlaylistList: View {
             }
         }
         
-        NavigationStack{
+        VStack{
+            NavigationStack{
                 List(){
                     Section{
                         ForEach(randomFilteredPlaylists){
                             playlist in
                             NavigationLink {
                                 SongList(playlist: playlist,
-                                user: modelData.users[userIndex])
+                                         user: modelData.users[userIndex])
                             } label: {
                                 PlaylistRow(playlist: playlist)
                             }
@@ -72,8 +73,9 @@ struct PlaylistList: View {
             }
             .refreshable{}
             .navigationBarBackButtonHidden(true)
-//            .navigationViewStyle(.stack)
-
+            .navigationViewStyle(.stack)
+            
+        }
     }
 
 }
